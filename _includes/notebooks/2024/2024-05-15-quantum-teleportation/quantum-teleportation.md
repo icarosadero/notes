@@ -130,7 +130,7 @@ Mathematically this becomes:
 
 1. State after Bell entanglement:
 
-$$\frac{1}{\sqrt{2}}(\alpha|1\rangle +\beta |0\rangle)\otimes\left(|0\rangle \otimes |0\rangle + |1\rangle\otimes|1\rangle \right)$$
+$$\frac{1}{\sqrt{2}}(\alpha|0\rangle +\beta |1\rangle)\otimes\left(|0\rangle \otimes |0\rangle + |1\rangle\otimes|1\rangle \right)$$
 
 or
 
